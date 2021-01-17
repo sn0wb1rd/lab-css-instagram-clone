@@ -40,8 +40,9 @@ header {
 
 
 .text-block { 
-  background: no-repeat 120% center url("../images/frame.png");
-  border-radius: 3px;
+  background: no-repeat center url("../images/frame.png");
+  background-size: cover;
+  border-radius: 15px;
   color: #6E6F6F;
   flex: 3 0 0;
   align-content:stretch;
